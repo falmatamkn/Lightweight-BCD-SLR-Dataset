@@ -1,0 +1,26 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>
+3	accuracy	-0.5159	-0.2097	2	13	25	5
+14	att. mech.	-0.2654	-0.8677	4	8	16	8
+17	bc	0.1868	0.1348	1	24	136	61
+18	bcd	-0.3098	0.6386	3	12	25	14
+29	breakhis	0.4649	0.5848	1	5	8	3
+55	cad	0.9006	0.5072	1	5	8	5
+58	cancer	0.1358	-0.5059	2	14	22	4
+68	cls.	-0.658	-0.4899	4	13	27	10
+74	comp. modeling	-0.1371	-0.2715	2	15	28	5
+78	computer vision	0.4238	-0.6588	2	11	16	3
+86	data augmentation	-0.7926	0.317	3	8	11	3
+106	dl	-0.0568	0.0855	1	24	111	51
+119	ensemble learning	1.1302	0.0031	1	5	8	3
+127	feat. extr.	-0.3073	-0.5379	2	12	21	4
+152	grad-cam	0.8155	0.1694	1	9	12	3
+169	histopathology	0.5785	-0.1262	1	14	23	5
+189	iot	-0.5405	0.7746	3	10	19	8
+192	kd	-0.3677	0.3836	3	15	31	14
+200	lesions	0.1655	-0.7603	2	13	23	4
+228	med. img	-0.3289	-0.0175	2	20	61	21
+241	ml	-0.0462	0.6401	3	16	38	15
+287	quantization	-0.5361	1.0512	3	7	10	3
+305	segmentation	-1.0765	-0.5312	4	4	8	3
+347	trf learning	0.2723	-0.1489	1	18	38	13
+355	vision transformer	0.865	-0.1645	1	11	15	3

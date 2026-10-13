@@ -1,0 +1,60 @@
+﻿label	replace by
+attention mechanism	att. mech.
+attention mechanisms	att. mech.
+breast cancer	bc
+breast neoplasms	bc
+breast tumor	bc
+breast tumour	bc
+breast cancer detection	bcd
+breast cancer classification	bcd
+breast cancer classifications	bcd
+cancer classification	cancer cls.
+classification	cls.
+classification (of information)	cls.
+image classification	cls.
+images classification	cls.
+computer aided diagnosis	cad
+breast cancer diagnosis	cad
+cancer diagnosis	cad
+computer aided detection and diagnosis	cad
+computer aided diagnosis	cad
+computer? aided diagnosis	cad
+computer-aided diagnosis	cad
+computer-aided diagnosis (cad)	cad
+cnn	dl
+convolution	dl
+convolutional neural network	dl
+convolutional neural networks	dl
+deep learning	dl
+deep neural networks	dl
+features extraction	feat. extraction
+humans	human
+internet of everything (ioe)	iot
+internet of medical things	iot
+internet of medical things (iomt)	iot
+iomt	iot
+internet of things	iot
+knowledge distillation	kd
+lightweight network	ml
+lightweight cnn	ml
+diagnostic imaging	med. img
+histopathological images	med. img
+mammography	med. img
+mammograms	med. img
+medical image processing	med. img. proc
+medical imaging	med. img
+imaging	med. img
+ultrasonic imaging	med. img
+ultrasound images	med. img
+x ray screens	med. img
+learning algorithms	ml
+learning models	ml
+learning systems	ml
+neural networks	neural nets
+neural networks, computer	neural nets
+neural-networks	neural nets
+network architecture	neural nets
+breast cancer screening	screening
+feature extraction	feat. extr.
+computational modeling	comp. modeling
+transfer learning	trf learning
