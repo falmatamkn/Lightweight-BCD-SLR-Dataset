@@ -1,0 +1,8 @@
+=== SCOPUS SEARCH STRING ===
+
+TITLE-ABS-KEY("breast cancer") AND TITLE-ABS-KEY(lightweight OR "light-weight" OR "knowledge distillation" OR pruning OR quantization OR quantisation OR TinyML OR "model compression") AND TITLE-ABS-KEY(detection OR classification) AND PUBYEAR > 2017 AND PUBYEAR < 2027
+
+
+=== WEB OF SCIENCE (WoS) SEARCH STRING ===
+
+TS=("breast cancer") AND TS=(lightweight OR "light-weight" OR "knowledge distillation" OR pruning OR quantization OR quantisation OR TinyML OR "model compression") AND TS=(detection OR classification) AND PY=(2018-2026)
